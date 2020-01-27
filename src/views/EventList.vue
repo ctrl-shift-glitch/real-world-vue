@@ -1,5 +1,7 @@
 <template>
-  <div></div>
+  <div>
+    <h1>Event Listings</h1>
+  </div>
 </template>
 
 <script>
