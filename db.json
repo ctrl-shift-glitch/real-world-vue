@@ -71,6 +71,24 @@
           "name": "Mary Gordon"
         }
       ]
+    },
+    {
+      "id": 224449,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "Plant trees",
+      "description": "do some good",
+      "location": "Forest",
+      "date": "2020-02-08T06:57:00.000Z",
+      "time": "20:00",
+      "attendees": []
     }
   ]
 }
