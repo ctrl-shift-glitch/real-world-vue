@@ -231,6 +231,24 @@
       "date": "",
       "time": "5:00",
       "attendees": []
+    },
+    {
+      "id": 319829,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "test",
+      "description": "etst",
+      "location": "test",
+      "date": "2020-03-04T22:20:00.000Z",
+      "time": "17:00",
+      "attendees": []
     }
   ]
 }
