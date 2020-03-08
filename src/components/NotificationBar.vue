@@ -22,7 +22,7 @@ export default {
   mounted() {
     this.timeout = setTimeout(() => this.remove(this.notification), 5000)
   },
-  beforeDestroy () {
+  beforeDestroy() {
     clearTimeout(this.timeout)
   },
   computed: {
