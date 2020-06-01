@@ -1,6 +1,6 @@
 # real-world-vue
 
-![](XMXDoa6xwc.gif)
+![](9ONaZ3knIn.gif)
 
 ## Project setup
 ```
