@@ -1,5 +1,7 @@
 # real-world-vue
 
+![](XMXDoa6xwc.gif)
+
 ## Project setup
 ```
 npm install
